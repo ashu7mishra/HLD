@@ -1,0 +1,8 @@
+1. https://www.quora.com/How-is-a-leader-elected-in-Apache-ZooKeeper
+2. https://cwiki.apache.org/confluence/display/ZOOKEEPER/Zab+vs.+Paxos
+3. https://zookeeper.apache.org/doc/r3.4.13/zookeeperInternals.html
+4. https://www.baeldung.com/spring-kafka
+5. https://www.baeldung.com/spring-cloud-zookeeper
+6. https://www.baeldung.com/java-zookeeper
+7. https://kafka.apache.org/documentation.html#design_pull
+8. https://www.youtube.com/watch?v=j4bqyAMMb7o&list=PLa7VYi0yPIH0KbnJQcMv5N9iW8HkZHztH
