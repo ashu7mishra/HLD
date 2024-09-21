@@ -114,3 +114,10 @@ C = [11, 31, 7, 3, 5, 13, -1, 17]
 out = obj.solve(A, B, C)
 print(out)
 
+# Example Output
+# Output 1:
+# 0 31 1 203 0 203
+# Output 2:
+#
+# 0 267 267 0 267 267 4 297
+
