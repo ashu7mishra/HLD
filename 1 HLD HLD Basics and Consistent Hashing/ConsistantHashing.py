@@ -98,11 +98,19 @@ class Solution:
             performOperation(A[i], B[i], C[i])
         return answers
 
+obj = Solution()
+
 A = ["ADD", "ASSIGN", "ADD", "ASSIGN", "REMOVE", "ASSIGN"]
 B = ["INDIA", "NWFJ", "RUSSIA", "OYVL", "INDIA", "IGAX"]
 C = [7, 3, 5, 13, -1, 17 ]
 
-obj = Solution()
+out = obj.solve(A, B, C)
+print(out)
+
+A = ['ADD', 'ASSIGN', 'ASSIGN', 'ADD', 'ASSIGN', 'ASSIGN', 'REMOVE', 'ASSIGN']
+B = ['INDIA', 'IRYA', 'RGJK', 'RUSSIA', 'BGVH', 'SUKJ', 'INDIA', 'RBRF']
+C = [11, 31, 7, 3, 5, 13, -1, 17]
+
 out = obj.solve(A, B, C)
 print(out)
 
