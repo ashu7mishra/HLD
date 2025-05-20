@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/../Django/.idea/Django.iml" filepath="$PROJECT_DIR$/../Django/.idea/Django.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/HLD.iml" filepath="$PROJECT_DIR$/.idea/HLD.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../codecrafters-sqlite-python/.idea/codecrafters-sqlite-python.iml" filepath="$PROJECT_DIR$/../codecrafters-sqlite-python/.idea/codecrafters-sqlite-python.iml" />
     </modules>
   </component>
 </project>
